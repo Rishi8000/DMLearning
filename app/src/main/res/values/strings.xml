@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="course_image" />
+    <string name="loading" />
+    <string name="log_out" />
+</resources>
